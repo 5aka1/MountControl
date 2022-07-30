@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mountcontrol",
+  "name": "MountControl",
+  "description": "Control if players can use mounts or not.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eufia"],
+  "credits": "u",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
