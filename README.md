@@ -1,5 +1,5 @@
 # MountControl
-Control if players can use mounts or not. (Made specifically for LOTRMod 1.7.10 Servers)
+Server-Side Mod to Control if players can use mounts or not. (Made specifically for Minecraft LOTRMod 1.7.10 Servers)
 
 # How to install:
 > 1. Go to releases and download the latest jar
